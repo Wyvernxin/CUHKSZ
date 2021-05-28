@@ -1,2 +1,2 @@
-print('fk')
-
+print('shit')
+maomaoshishuaibi
